@@ -7,4 +7,5 @@ let greatMagicians = make_Great([...magicianNames])
 //calling previous function that print a value of same as excercise 41
 show_Magician(magicianNames)
 show_Magician(greatMagicians)
+
  
