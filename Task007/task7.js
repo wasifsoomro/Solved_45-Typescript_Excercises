@@ -1,5 +1,5 @@
-"use strict";
-// operations
+//Task 7 operations
+//Applying operation on number 
 //Addition
 let a = 2;
 let b = 6;
@@ -20,3 +20,4 @@ let j = 64;
 let k = 8;
 let l = j / k;
 console.log(l);
+export {};

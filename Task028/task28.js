@@ -1,5 +1,5 @@
-"use strict";
 // Task 28
+// set a vlaue and apply a condtion to check my value if my condtion true then print a message according it 
 let age = 50;
 if (age < 2) {
     console.log(`The person is baby`);
@@ -19,3 +19,4 @@ else if (age === 20 || age < 65) {
 else if (age >= 65) {
     console.log(`The perspn is an elder`);
 }
+export {};

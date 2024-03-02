@@ -1,4 +1,3 @@
-"use strict";
 //Task24
 //More Conditional Tests: 
 let str1 = "Wasif";
@@ -36,3 +35,4 @@ let checkArr1 = [45, 25, 50, 89];
 let checkElement1 = 67;
 let findElemnt1 = checkArr1.includes(checkElement1);
 console.log(findElemnt1); //false
+export {};

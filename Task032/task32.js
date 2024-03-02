@@ -1,4 +1,3 @@
-"use strict";
 //Task32
 // List 1
 let current_Users = ["Abdul Hafeez", "Ahmed", "Aslam", "Haseeb", "Hafiz"];
@@ -15,3 +14,4 @@ for (let b = 0; b < new_Users.length; b++) {
         console.log(`The UserName ${new_Users[b]} is available`);
     }
 }
+export {};

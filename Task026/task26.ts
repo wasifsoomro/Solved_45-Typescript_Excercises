@@ -1,5 +1,5 @@
 // Task 26
-import { alien_Color } from "../Task025/task25"
+import { alien_Color } from "../Task025/task25.js"
 
 //using if statement with passes true condition
 

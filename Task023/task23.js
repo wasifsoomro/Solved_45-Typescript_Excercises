@@ -1,4 +1,3 @@
-"use strict";
 // Task 23
 //Using Comparison Operator to get result in true and false.
 let name1 = "Wasif";
@@ -22,3 +21,4 @@ console.log("Is name.length == 5 ? I predict true.");
 console.log(name1.length == 5);
 console.log("Is name.length <= 5 ? I predict true.");
 console.log(name1.length <= 5);
+export {};

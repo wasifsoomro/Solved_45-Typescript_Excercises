@@ -1,7 +1,7 @@
 //Task 15
 //changing guest list
 
-import { guest_list1 } from "../Task014/task14";
+import { guest_list1 } from "../Task014/task14.js";
 
 // raplacing one guest with another guest
 let guestUnableToAttend: string[] =  guest_list1.splice(1, 1 ,"Majeed");

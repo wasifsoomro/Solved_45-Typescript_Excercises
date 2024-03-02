@@ -1,6 +1,6 @@
 // Task 17 Start with task 16
 
-import { guest_list3 } from "../Task016/task16";
+import { guest_list3 } from "../Task016/task16.js";
 
 console.log("Unfortunatly, my bigger table won't arrive so I can invite only two people for dinner");
 

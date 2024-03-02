@@ -1,4 +1,4 @@
-import { magicianNames, show_Magician } from "../Task041/task41"
+import { magicianNames, show_Magician } from "../Task041/task41.js"
 
 //Task 42
 

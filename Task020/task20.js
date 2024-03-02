@@ -1,5 +1,6 @@
-"use strict";
+//Creating empty array
 let arr = [];
+//using loop and apply push method that push a value in array on iterating
 for (let z = 0; z < 5; z++) {
     if (z === 0) {
         arr.push("Mount Everest");
@@ -21,3 +22,4 @@ for (let z = 0; z < 5; z++) {
     }
 }
 console.log(arr);
+export {};

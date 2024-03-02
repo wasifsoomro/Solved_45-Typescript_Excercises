@@ -1,4 +1,3 @@
-"use strict";
 //Task18
 let places = ["Makkah", "Baghdad", "Madina", "NaranKaghan", "KohMaree"];
 console.log("array not in alphabetical order ", places);
@@ -19,3 +18,4 @@ reverse_original_array.sort();
 console.log(`sorting in alphabetical order, ${reverse_original_array} \n`);
 reverse_original_array.sort();
 console.log(`sorting  array, ${reverse_original_array} \n`);
+export {};

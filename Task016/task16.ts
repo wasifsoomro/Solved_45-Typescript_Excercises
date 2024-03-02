@@ -1,5 +1,5 @@
 //task 16 start from task 15
-import { guest_list2 } from "../Task015/task15";
+import { guest_list2 } from "../Task015/task15.js";
 
 console.log("I just found a bigger table")
 

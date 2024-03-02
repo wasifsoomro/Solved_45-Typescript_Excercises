@@ -1,6 +1,6 @@
 //Task31
 
-import { hello_Admin} from "../Task030/task30";
+import { hello_Admin} from "../Task030/task30.js";
 
 
 //using while loop

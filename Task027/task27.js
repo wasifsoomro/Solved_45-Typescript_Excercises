@@ -1,5 +1,5 @@
 // Task 27
-var alien_Color2;
+let alien_Color2;
 //verson no 1
 alien_Color2 = "green";
 if (alien_Color2 === "green") {
@@ -24,3 +24,4 @@ if (alien_Color2 === "red") {
 else {
     console.log("");
 }
+export {};

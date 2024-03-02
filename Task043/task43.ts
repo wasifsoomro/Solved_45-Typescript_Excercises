@@ -1,6 +1,6 @@
 //Task43
-import { magicianNames, show_Magician } from "../Task041/task41"
-import { make_Great } from "../Task042/task42"
+import { magicianNames, show_Magician } from "../Task041/task41.js"
+import { make_Great } from "../Task042/task42.js"
 
 //creating a copy of array
 let greatMagicians = make_Great([...magicianNames])

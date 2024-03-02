@@ -1,4 +1,4 @@
-import { makeshirt as modify_make_shirt } from "../Task036/task36";
+import { makeshirt as modify_make_shirt } from "../Task036/task36.js";
 
 
    // Task 37

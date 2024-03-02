@@ -1,4 +1,5 @@
-"use strict";
+//Task 21
+//using object for creating it card
 let it_Card = {
     name: "Muhammad Wasif ",
     fatherName: "Abdul Hafeez",
@@ -8,3 +9,4 @@ let it_Card = {
     timing: "Sunday 2:00 PM - 5:00 PM"
 };
 console.log(it_Card);
+export {};

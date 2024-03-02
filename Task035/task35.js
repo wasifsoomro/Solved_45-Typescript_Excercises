@@ -1,7 +1,8 @@
-"use strict";
+//Task35
+//creating array
 let animals = ["Dog", "Cat", "Rabbit"];
-let t = 0;
-for (t = 0; t < animals.length; t++) {
+//using for loop with if else if chain 
+for (let t = 0; t < animals.length; t++) {
     console.log(animals[t]);
     if (animals[t] === "Dog") {
         console.log(`A ${animals[t]} would make a great pet`);
@@ -14,3 +15,4 @@ for (t = 0; t < animals.length; t++) {
     }
 }
 console.log("Any of these animals would make a great pet");
+export {};
